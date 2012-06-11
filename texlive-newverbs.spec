@@ -1,12 +1,12 @@
-# revision 23342
+# revision 26258
 # category Package
 # catalog-ctan /macros/latex/contrib/newverbs
-# catalog-date 2011-07-25 14:34:08 +0200
+# catalog-date 2012-05-08 15:35:13 +0200
 # catalog-license lppl1.3
-# catalog-version 1.3
+# catalog-version 1.3a
 Name:		texlive-newverbs
-Version:	1.3
-Release:	2
+Version:	1.3a
+Release:	1
 Summary:	Define new versions of \verb, including short verb versions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/newverbs
