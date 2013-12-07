@@ -6,7 +6,7 @@
 # catalog-version 1.3a
 Name:		texlive-newverbs
 Version:	1.3a
-Release:	3
+Release:	4
 Summary:	Define new versions of \verb, including short verb versions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/newverbs
