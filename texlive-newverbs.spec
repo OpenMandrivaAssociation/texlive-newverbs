@@ -1,6 +1,6 @@
 Name:		texlive-newverbs
 Version:	64833
-Release:	1
+Release:	2
 Summary:	Define new versions of \verb, including short verb versions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/newverbs
