@@ -3,7 +3,7 @@ Version:	64833
 Release:	2
 Summary:	Define new versions of \verb, including short verb versions
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/newverbs
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/newverbs
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/newverbs.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/newverbs.doc.r%{version}.tar.xz
